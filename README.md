@@ -5,9 +5,10 @@ Python files from basic models
 
 1. Splitting_data.ipynb
 2. Visualization.ipynb
-3. Data_Analysis_Part_1.ipynb
-4. Data_Analysis_Part_2.ipynb
-5. Linear_Regression(gradient_descent).ipynb
-6. Multi_linear_regression.ipynb
-7. Logistic_Regression.ipynb
-8. Logistic_Regression_using_Scikit_library.ipynb
+3. Reading_zip_files.ipynb
+4. Data_Analysis_Part_1.ipynb
+5. Data_Analysis_Part_2.ipynb
+6. Linear_Regression(gradient_descent).ipynb
+7. Multi_linear_regression.ipynb
+8. Logistic_Regression.ipynb
+9. Logistic_Regression_using_Scikit_library.ipynb
