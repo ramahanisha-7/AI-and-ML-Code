@@ -12,3 +12,4 @@ Python files from basic models
 7. Multi_linear_regression.ipynb
 8. Logistic_Regression.ipynb
 9. Logistic_Regression_using_Scikit_library.ipynb
+10. Using_all_libraries.ipynb
