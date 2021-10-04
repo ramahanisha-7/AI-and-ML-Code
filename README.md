@@ -14,3 +14,4 @@ Python files from basic models
 9. Logistic_Regression_using_Scikit_library.ipynb
 10. Using_all_libraries.ipynb
 11. Revision.ipynb
+12. Decision_Tree.ipynb
