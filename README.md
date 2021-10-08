@@ -15,3 +15,4 @@ Python files from basic models
 10. Using_all_libraries.ipynb
 11. Revision.ipynb
 12. Decision_Tree.ipynb
+13. RandomForestRegressor.ipynb
