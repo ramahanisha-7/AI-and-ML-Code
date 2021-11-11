@@ -17,3 +17,4 @@ Python files from basic models
 12. Decision_Tree.ipynb
 13. RandomForestRegressor.ipynb
 14. AdaBoost_&_GradientBoosting_Classifier.ipynb
+15. SVC.ipynb
