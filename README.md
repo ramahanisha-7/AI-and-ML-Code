@@ -28,3 +28,7 @@ Python files from basic models
 23. Computer Vision(CNN).ipynb
 24. Arthimatic open cv.ipynb
 25. Adaptive Gamma Correction.ipynb
+26. Optimizers.ipynb
+27. PlacementPredictionfinal.ipynb
+28. Prediction.ipynb
+29. RandomForestClassifer.ipynb
