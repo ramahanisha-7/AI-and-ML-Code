@@ -18,3 +18,13 @@ Python files from basic models
 13. RandomForestRegressor.ipynb
 14. AdaBoost_&_GradientBoosting_Classifier.ipynb
 15. SVC.ipynb
+16. Quad histogram equalization.ipynb
+17. Translation, Rotation,Cropping, flipping, Resize.ipynb
+18. OPEN CV.ipynb
+19. Morphological-operations.ipynb
+20. Noise, Scaling.ipynb
+21. grey, binary and 1d conversion of images.ipynb
+22. License plate identification.ipynb
+23. Computer Vision(CNN).ipynb
+24. Arthimatic open cv.ipynb
+25. Adaptive Gamma Correction.ipynb
