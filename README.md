@@ -34,3 +34,14 @@ Python files from basic models
 29. RandomForestClassifer.ipynb
 30. Julia.ipynb
 31. Artificial Neural Network.ipynb
+32. Opencv_bitwise.ipynb
+33. Opencv_cropping.ipynb
+34. Opencv_drawing.ipynb
+35. Opencv_flipping.ipynb
+36. Opencv_getting_setting.ipynb
+37. Opencv_masking.ipynb
+38. Opencv_resizing.ipynb
+39. Opencv_rotate.ipynb
+40. Opencv_split_merge.ipynb
+41. Opencv_translate.ipynb
+42. Median Filter and Convolution Question Code
