@@ -33,3 +33,4 @@ Python files from basic models
 28. Prediction.ipynb
 29. RandomForestClassifer.ipynb
 30. Julia.ipynb
+31. Artificial Neural Network.ipynb
