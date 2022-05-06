@@ -32,3 +32,4 @@ Python files from basic models
 27. PlacementPredictionfinal.ipynb
 28. Prediction.ipynb
 29. RandomForestClassifer.ipynb
+30. Julia.ipynb
